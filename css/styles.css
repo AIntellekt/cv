@@ -140,14 +140,15 @@ h3 {
 
 .Design_Dev1 {
   width: 17rem;
-  padding: 0.625rem 0.625rem 0.625rem 1rem;
-  margin: 0.625rem;
+  padding-top: 0.25rem;
+  margin: auto;
 }
 
 .contact-me {
   padding-top: 10px;
   padding-bottom: 10px;
   background-color: #88cedc;
+  font-weight: 600;
 }
 
 .btn {
@@ -161,7 +162,7 @@ h3 {
 
 .contactStatement {
   width: 68%;
-  padding-left: 15.5%;
+  margin: auto;
 }
 
 .LinkedIn_img {
