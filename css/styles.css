@@ -123,6 +123,8 @@ h3 {
   margin-top: 1rem;
   line-height: 1.5;
   display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .skill-row2 {
