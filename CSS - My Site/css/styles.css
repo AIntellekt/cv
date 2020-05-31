@@ -1,0 +1,173 @@
+/****** STYLE SHEET START ******/
+body {
+  margin: 0;
+  background-color: #a5def1;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 0.75rem auto 0 auto;
+  font-size: 3.5rem;
+  color: #233142;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-size: 1.125rem;
+  color: #233142;
+  margin: 10px auto;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #36506c;
+}
+
+/****** CLASS SELECTORS ******/
+
+.top-container {
+  background-color: #a5def1;
+  padding-top: 1px;
+}
+
+.headerName {
+  z-index: 1000;
+  margin: auto 25%;
+}
+
+.jobName {
+  z-index: 1000;
+  width: 12rem;
+  display: inline-flex;
+}
+
+.pro {
+  text-decoration: underline;
+  color: #36506c;
+}
+
+.sunImg {
+  width: 20%;
+  max-width: 14rem;
+  min-width: 6rem;
+  position: absolute;
+  top: 4rem;
+  right: 0.125rem;
+}
+
+.firstCloud {
+  position: absolute;
+  left: 75%;
+  top: 12rem;
+  width: 12%;
+}
+
+.secondCloud {
+  position: absolute;
+  left: 5%;
+  top: 27%;
+  width: 14%;
+}
+
+.thirdCloud {
+  position: absolute;
+  left: 60%;
+  top: 15rem;
+  width: 13%;
+}
+
+.fourthCloud {
+  position: absolute;
+  left: 27%;
+  top: 37%;
+  width: 14%;
+  z-index: 1000;
+}
+
+.Mountain-river1 {
+  width: 100%;
+  max-height: 750px;
+  z-index: 1000;
+  margin-bottom: -20px;
+}
+
+.middle-container {
+  width: 100%;
+}
+
+.profile {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.Resume_image1 {
+  width: 8rem;
+  border-radius: 100%;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  box-shadow: 3px 3px 6px 2px #a1a9b5;
+  float: left;
+  display: inline-flex;
+}
+
+.skills {
+  background-color: #ADDEE8;
+  padding: 0.75rem 25%;
+}
+
+.skill-row1 {
+  width: 20rem;
+  margin-top: 1rem;
+  line-height: 1.5;
+  display: inline-block;
+}
+
+.skill-row2 {
+  width: 20rem;
+  margin: 1.25rem auto 0.25rem;
+  line-height: 1.5;
+}
+
+.Agile_PM1 {
+  margin-top: 1rem;
+  width: 13rem;
+  border-radius: 7rem;
+}
+
+.Design_Dev1 {
+  width: 17rem;
+  padding: 0.625rem 0.625rem 0.625rem 1rem;
+  margin: 0.625rem;
+}
+
+.contact-me {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #88cedc;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.bottom-container {
+  background-color: #88cedc;
+  padding-bottom: 1px;
+}
+
+.LinkedIn_img {
+  margin-top: 10px;
+  width: 2.5%;
+}
+
+.copyright {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.dp_run {
+  position: absolute;
+}
